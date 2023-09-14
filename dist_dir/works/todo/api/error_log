@@ -1,0 +1,419 @@
+[09-Feb-2023 23:48:39 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/activate.php on line 10
+[09-Feb-2023 23:48:39 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/activate.php on line 11
+[09-Feb-2023 23:48:39 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/dao.php on line 145
+[10-Feb-2023 15:37:48 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/activate.php on line 10
+[10-Feb-2023 15:37:48 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/activate.php on line 11
+[10-Feb-2023 15:37:48 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/dao.php on line 145
+[10-Feb-2023 20:36:24 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 11
+[10-Feb-2023 20:36:24 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 12
+[10-Feb-2023 20:36:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[10-Feb-2023 20:36:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[10-Feb-2023 20:37:00 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[10-Feb-2023 20:37:00 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[10-Feb-2023 20:38:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[10-Feb-2023 20:38:05 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[10-Feb-2023 20:38:05 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[10-Feb-2023 20:38:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[10-Feb-2023 20:38:10 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[10-Feb-2023 20:38:10 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[10-Feb-2023 20:38:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[10-Feb-2023 20:38:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[10-Feb-2023 20:38:27 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[10-Feb-2023 20:38:27 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[10-Feb-2023 20:38:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[10-Feb-2023 20:38:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[10-Feb-2023 20:38:46 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 11
+[10-Feb-2023 20:38:46 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 12
+[10-Feb-2023 20:38:51 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[10-Feb-2023 20:38:51 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[10-Feb-2023 20:38:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[10-Feb-2023 20:39:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[10-Feb-2023 20:39:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[10-Feb-2023 20:39:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[11-Feb-2023 02:03:25 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[11-Feb-2023 02:03:25 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[11-Feb-2023 02:03:25 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[11-Feb-2023 02:03:25 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[15-Feb-2023 05:25:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[15-Feb-2023 05:40:49 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[15-Feb-2023 05:40:49 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[15-Feb-2023 05:40:49 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[15-Feb-2023 05:40:49 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[16-Feb-2023 07:58:52 America/Chicago] PHP Warning:  Undefined array key "apnsSSL" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 5
+[16-Feb-2023 07:58:52 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 6
+[16-Feb-2023 07:58:52 America/Chicago] PHP Warning:  Undefined array key "passphrase" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 7
+[16-Feb-2023 07:58:52 America/Chicago] PHP Warning:  Undefined array key "sourceTokenString" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 8
+[20-Feb-2023 18:05:12 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/uploadDeviceToken.php on line 5
+[20-Feb-2023 18:05:12 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/uploadDeviceToken.php on line 6
+[20-Feb-2023 18:05:18 America/Chicago] PHP Warning:  Undefined array key "apnsSSL" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 5
+[20-Feb-2023 18:05:18 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 6
+[20-Feb-2023 18:05:18 America/Chicago] PHP Warning:  Undefined array key "passphrase" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 7
+[20-Feb-2023 18:05:18 America/Chicago] PHP Warning:  Undefined array key "sourceTokenString" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 8
+[21-Feb-2023 05:25:41 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[21-Feb-2023 05:25:41 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[21-Feb-2023 05:25:41 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[21-Feb-2023 05:25:41 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[21-Feb-2023 13:28:17 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userRegister.php on line 7
+[21-Feb-2023 13:28:17 America/Chicago] PHP Warning:  Undefined array key "email" in /home1/terrytor/public_html/todo/api/userRegister.php on line 8
+[21-Feb-2023 13:28:17 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userRegister.php on line 9
+[21-Feb-2023 13:28:17 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 11
+[21-Feb-2023 13:28:17 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 12
+[22-Feb-2023 05:01:09 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 5
+[22-Feb-2023 05:01:09 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 6
+[25-Feb-2023 11:52:44 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 5
+[25-Feb-2023 11:52:44 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 6
+[25-Feb-2023 14:20:03 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/activate.php on line 10
+[25-Feb-2023 14:20:03 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/activate.php on line 11
+[25-Feb-2023 14:20:03 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/dao.php on line 145
+[03-Mar-2023 23:27:50 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[03-Mar-2023 23:44:20 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[03-Mar-2023 23:44:20 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[03-Mar-2023 23:44:20 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[03-Mar-2023 23:44:20 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[05-Mar-2023 15:03:55 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/activate.php on line 10
+[05-Mar-2023 15:03:55 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/activate.php on line 11
+[05-Mar-2023 15:03:55 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/dao.php on line 145
+[06-Mar-2023 04:42:13 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userRegister.php on line 7
+[06-Mar-2023 04:42:13 America/Chicago] PHP Warning:  Undefined array key "email" in /home1/terrytor/public_html/todo/api/userRegister.php on line 8
+[06-Mar-2023 04:42:13 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userRegister.php on line 9
+[06-Mar-2023 04:42:13 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 11
+[06-Mar-2023 04:42:13 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 12
+[06-Mar-2023 08:30:24 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userRegister.php on line 7
+[06-Mar-2023 08:30:24 America/Chicago] PHP Warning:  Undefined array key "email" in /home1/terrytor/public_html/todo/api/userRegister.php on line 8
+[06-Mar-2023 08:30:24 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userRegister.php on line 9
+[06-Mar-2023 08:30:24 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 11
+[06-Mar-2023 08:30:24 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 12
+[06-Mar-2023 20:08:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[06-Mar-2023 20:24:30 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[06-Mar-2023 20:24:30 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[06-Mar-2023 20:24:30 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[06-Mar-2023 20:24:30 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[08-Mar-2023 08:03:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[08-Mar-2023 08:22:21 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[08-Mar-2023 08:22:21 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[08-Mar-2023 08:22:21 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[08-Mar-2023 08:22:21 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[10-Mar-2023 17:55:18 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[10-Mar-2023 17:55:18 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[10-Mar-2023 17:55:18 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[10-Mar-2023 17:55:18 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[17-Mar-2023 19:08:30 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[17-Mar-2023 19:08:30 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[17-Mar-2023 19:08:30 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[17-Mar-2023 19:08:30 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[19-Mar-2023 17:17:06 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/uploadDeviceToken.php on line 5
+[19-Mar-2023 17:17:06 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/uploadDeviceToken.php on line 6
+[27-Mar-2023 00:40:34 America/Chicago] PHP Warning:  Undefined array key "apnsSSL" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 5
+[27-Mar-2023 00:40:34 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 6
+[27-Mar-2023 00:40:34 America/Chicago] PHP Warning:  Undefined array key "passphrase" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 7
+[27-Mar-2023 00:40:34 America/Chicago] PHP Warning:  Undefined array key "sourceTokenString" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 8
+[01-Apr-2023 02:41:25 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userRegister.php on line 7
+[01-Apr-2023 02:41:25 America/Chicago] PHP Warning:  Undefined array key "email" in /home1/terrytor/public_html/todo/api/userRegister.php on line 8
+[01-Apr-2023 02:41:25 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userRegister.php on line 9
+[01-Apr-2023 02:41:25 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 11
+[01-Apr-2023 02:41:25 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 12
+[02-Apr-2023 20:12:30 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userRegister.php on line 7
+[02-Apr-2023 20:12:30 America/Chicago] PHP Warning:  Undefined array key "email" in /home1/terrytor/public_html/todo/api/userRegister.php on line 8
+[02-Apr-2023 20:12:30 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userRegister.php on line 9
+[02-Apr-2023 20:12:30 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 11
+[02-Apr-2023 20:12:30 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 12
+[03-Apr-2023 05:31:12 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/activate.php on line 10
+[03-Apr-2023 05:31:12 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/activate.php on line 11
+[03-Apr-2023 05:31:12 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/dao.php on line 145
+[04-Apr-2023 22:40:22 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/activate.php on line 10
+[04-Apr-2023 22:40:22 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/activate.php on line 11
+[04-Apr-2023 22:40:22 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/dao.php on line 145
+[11-Apr-2023 16:25:34 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 5
+[11-Apr-2023 16:25:34 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 6
+[16-Apr-2023 22:14:28 America/Chicago] PHP Warning:  Undefined array key "apnsSSL" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 5
+[16-Apr-2023 22:14:28 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 6
+[16-Apr-2023 22:14:28 America/Chicago] PHP Warning:  Undefined array key "passphrase" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 7
+[16-Apr-2023 22:14:28 America/Chicago] PHP Warning:  Undefined array key "sourceTokenString" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 8
+[17-Apr-2023 01:05:12 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[17-Apr-2023 01:05:12 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[17-Apr-2023 01:05:12 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[17-Apr-2023 01:05:12 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[23-Apr-2023 04:07:28 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/activate.php on line 10
+[23-Apr-2023 04:07:28 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/activate.php on line 11
+[23-Apr-2023 04:07:28 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/dao.php on line 145
+[23-Apr-2023 09:20:02 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userRegister.php on line 7
+[23-Apr-2023 09:20:02 America/Chicago] PHP Warning:  Undefined array key "email" in /home1/terrytor/public_html/todo/api/userRegister.php on line 8
+[23-Apr-2023 09:20:02 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userRegister.php on line 9
+[23-Apr-2023 09:20:02 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 11
+[23-Apr-2023 09:20:02 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 12
+[29-Apr-2023 13:36:07 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 5
+[29-Apr-2023 13:36:07 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 6
+[30-Apr-2023 04:21:53 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/activate.php on line 10
+[30-Apr-2023 04:21:53 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/activate.php on line 11
+[30-Apr-2023 04:21:53 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/dao.php on line 145
+[30-Apr-2023 12:08:55 America/Chicago] PHP Warning:  Undefined array key "apnsSSL" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 5
+[30-Apr-2023 12:08:55 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 6
+[30-Apr-2023 12:08:55 America/Chicago] PHP Warning:  Undefined array key "passphrase" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 7
+[30-Apr-2023 12:08:55 America/Chicago] PHP Warning:  Undefined array key "sourceTokenString" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 8
+[01-May-2023 19:29:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[02-May-2023 00:51:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[02-May-2023 08:28:58 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userRegister.php on line 7
+[02-May-2023 08:28:58 America/Chicago] PHP Warning:  Undefined array key "email" in /home1/terrytor/public_html/todo/api/userRegister.php on line 8
+[02-May-2023 08:28:58 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userRegister.php on line 9
+[02-May-2023 08:28:58 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 11
+[02-May-2023 08:28:58 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 12
+[14-May-2023 22:18:40 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[14-May-2023 22:18:40 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[14-May-2023 22:18:40 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[14-May-2023 22:18:40 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[16-May-2023 13:53:38 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 5
+[16-May-2023 13:53:38 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 6
+[23-May-2023 11:40:54 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/activate.php on line 10
+[23-May-2023 11:40:54 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/activate.php on line 11
+[23-May-2023 11:40:54 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/dao.php on line 145
+[28-May-2023 12:22:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[30-May-2023 07:42:31 America/Chicago] PHP Warning:  Undefined array key "apnsSSL" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 5
+[30-May-2023 07:42:31 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 6
+[30-May-2023 07:42:31 America/Chicago] PHP Warning:  Undefined array key "passphrase" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 7
+[30-May-2023 07:42:31 America/Chicago] PHP Warning:  Undefined array key "sourceTokenString" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 8
+[30-May-2023 07:55:14 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/uploadDeviceToken.php on line 5
+[30-May-2023 07:55:14 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/uploadDeviceToken.php on line 6
+[30-May-2023 08:11:54 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 5
+[30-May-2023 08:11:54 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 6
+[30-May-2023 08:20:12 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/activate.php on line 10
+[30-May-2023 08:20:12 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/activate.php on line 11
+[30-May-2023 08:20:12 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/dao.php on line 145
+[30-May-2023 08:22:47 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userRegister.php on line 7
+[30-May-2023 08:22:47 America/Chicago] PHP Warning:  Undefined array key "email" in /home1/terrytor/public_html/todo/api/userRegister.php on line 8
+[30-May-2023 08:22:47 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userRegister.php on line 9
+[30-May-2023 08:22:47 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 11
+[30-May-2023 08:22:47 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 12
+[30-May-2023 08:23:47 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[03-Jun-2023 01:50:26 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[03-Jun-2023 01:50:26 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[03-Jun-2023 01:50:26 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[03-Jun-2023 01:50:26 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[05-Jun-2023 05:43:06 America/Chicago] PHP Warning:  Undefined array key "apnsSSL" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 5
+[05-Jun-2023 05:43:06 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 6
+[05-Jun-2023 05:43:06 America/Chicago] PHP Warning:  Undefined array key "passphrase" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 7
+[05-Jun-2023 05:43:06 America/Chicago] PHP Warning:  Undefined array key "sourceTokenString" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 8
+[05-Jun-2023 10:58:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[10-Jun-2023 01:11:49 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/activate.php on line 10
+[10-Jun-2023 01:11:49 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/activate.php on line 11
+[10-Jun-2023 01:11:49 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/dao.php on line 145
+[11-Jun-2023 11:49:42 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/activate.php on line 10
+[11-Jun-2023 11:49:42 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/activate.php on line 11
+[11-Jun-2023 11:49:42 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/dao.php on line 145
+[11-Jun-2023 17:03:14 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[11-Jun-2023 17:03:14 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[11-Jun-2023 17:03:14 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[11-Jun-2023 17:03:14 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[11-Jun-2023 17:11:16 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 5
+[11-Jun-2023 17:11:16 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 6
+[11-Jun-2023 19:34:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[11-Jun-2023 20:57:07 America/Chicago] PHP Warning:  Undefined array key "apnsSSL" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 5
+[11-Jun-2023 20:57:07 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 6
+[11-Jun-2023 20:57:07 America/Chicago] PHP Warning:  Undefined array key "passphrase" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 7
+[11-Jun-2023 20:57:07 America/Chicago] PHP Warning:  Undefined array key "sourceTokenString" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 8
+[11-Jun-2023 21:05:39 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userRegister.php on line 7
+[11-Jun-2023 21:05:39 America/Chicago] PHP Warning:  Undefined array key "email" in /home1/terrytor/public_html/todo/api/userRegister.php on line 8
+[11-Jun-2023 21:05:39 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userRegister.php on line 9
+[11-Jun-2023 21:05:39 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 11
+[11-Jun-2023 21:05:39 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 12
+[12-Jun-2023 03:51:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[12-Jun-2023 05:50:36 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[12-Jun-2023 07:34:11 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/uploadDeviceToken.php on line 5
+[12-Jun-2023 07:34:11 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/uploadDeviceToken.php on line 6
+[17-Jun-2023 06:47:08 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userRegister.php on line 7
+[17-Jun-2023 06:47:08 America/Chicago] PHP Warning:  Undefined array key "email" in /home1/terrytor/public_html/todo/api/userRegister.php on line 8
+[17-Jun-2023 06:47:08 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userRegister.php on line 9
+[17-Jun-2023 06:47:08 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 11
+[17-Jun-2023 06:47:08 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 12
+[17-Jun-2023 22:41:18 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/uploadDeviceToken.php on line 5
+[17-Jun-2023 22:41:18 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/uploadDeviceToken.php on line 6
+[18-Jun-2023 09:09:20 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 5
+[18-Jun-2023 09:09:20 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 6
+[25-Jun-2023 03:47:40 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[25-Jun-2023 03:47:40 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[25-Jun-2023 03:47:40 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[25-Jun-2023 03:47:40 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[25-Jun-2023 21:34:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[25-Jun-2023 22:33:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[27-Jun-2023 08:02:59 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[27-Jun-2023 08:02:59 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[27-Jun-2023 08:02:59 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[27-Jun-2023 08:02:59 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[03-Jul-2023 15:43:48 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[04-Jul-2023 08:06:05 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[04-Jul-2023 08:06:05 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[04-Jul-2023 08:06:05 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[04-Jul-2023 08:06:05 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[05-Jul-2023 23:58:54 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userRegister.php on line 7
+[05-Jul-2023 23:58:54 America/Chicago] PHP Warning:  Undefined array key "email" in /home1/terrytor/public_html/todo/api/userRegister.php on line 8
+[05-Jul-2023 23:58:54 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userRegister.php on line 9
+[05-Jul-2023 23:58:54 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 11
+[05-Jul-2023 23:58:54 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 12
+[07-Jul-2023 06:28:28 America/Chicago] PHP Warning:  Undefined array key "apnsSSL" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 5
+[07-Jul-2023 06:28:28 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 6
+[07-Jul-2023 06:28:28 America/Chicago] PHP Warning:  Undefined array key "passphrase" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 7
+[07-Jul-2023 06:28:28 America/Chicago] PHP Warning:  Undefined array key "sourceTokenString" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 8
+[08-Jul-2023 11:08:12 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/activate.php on line 10
+[08-Jul-2023 11:08:12 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/activate.php on line 11
+[08-Jul-2023 11:08:12 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/dao.php on line 145
+[10-Jul-2023 02:21:54 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 5
+[10-Jul-2023 02:21:54 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 6
+[12-Jul-2023 13:40:30 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/uploadDeviceToken.php on line 5
+[12-Jul-2023 13:40:30 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/uploadDeviceToken.php on line 6
+[15-Jul-2023 18:12:14 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userRegister.php on line 7
+[15-Jul-2023 18:12:14 America/Chicago] PHP Warning:  Undefined array key "email" in /home1/terrytor/public_html/todo/api/userRegister.php on line 8
+[15-Jul-2023 18:12:14 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userRegister.php on line 9
+[15-Jul-2023 18:12:14 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 11
+[15-Jul-2023 18:12:14 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 12
+[16-Jul-2023 05:05:38 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/uploadDeviceToken.php on line 5
+[16-Jul-2023 05:05:38 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/uploadDeviceToken.php on line 6
+[21-Jul-2023 03:50:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[21-Jul-2023 23:12:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[22-Jul-2023 08:47:13 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/uploadDeviceToken.php on line 5
+[22-Jul-2023 08:47:13 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/uploadDeviceToken.php on line 6
+[24-Jul-2023 07:17:39 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[24-Jul-2023 07:17:39 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[24-Jul-2023 07:17:39 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[24-Jul-2023 07:17:39 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[25-Jul-2023 13:45:01 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[25-Jul-2023 13:45:01 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[25-Jul-2023 13:45:01 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[25-Jul-2023 13:45:01 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[25-Jul-2023 15:50:40 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 5
+[25-Jul-2023 15:50:40 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 6
+[26-Jul-2023 03:20:24 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/activate.php on line 10
+[26-Jul-2023 03:20:24 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/activate.php on line 11
+[26-Jul-2023 03:20:24 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/dao.php on line 145
+[26-Jul-2023 15:14:45 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/activate.php on line 10
+[26-Jul-2023 15:14:45 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/activate.php on line 11
+[26-Jul-2023 15:14:45 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/dao.php on line 145
+[08-Aug-2023 23:24:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[12-Aug-2023 07:17:41 America/Chicago] PHP Warning:  Undefined array key "apnsSSL" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 5
+[12-Aug-2023 07:17:41 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 6
+[12-Aug-2023 07:17:41 America/Chicago] PHP Warning:  Undefined array key "passphrase" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 7
+[12-Aug-2023 07:17:41 America/Chicago] PHP Warning:  Undefined array key "sourceTokenString" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 8
+[13-Aug-2023 08:05:15 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 5
+[13-Aug-2023 08:05:15 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 6
+[18-Aug-2023 11:12:13 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userLogin.php on line 5
+[18-Aug-2023 11:12:13 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userLogin.php on line 6
+[18-Aug-2023 11:12:13 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 8
+[18-Aug-2023 11:12:13 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userLogin.php on line 9
+[19-Aug-2023 00:26:58 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 5
+[19-Aug-2023 00:26:58 America/Chicago] PHP Warning:  Undefined array key "deviceTokenString" in /home1/terrytor/public_html/todo/api/acknowledgeNotification.php on line 6
+[27-Aug-2023 17:43:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
+[01-Sep-2023 13:31:08 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/activate.php on line 10
+[01-Sep-2023 13:31:08 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/activate.php on line 11
+[01-Sep-2023 13:31:08 America/Chicago] PHP Warning:  Undefined array key "authentication" in /home1/terrytor/public_html/todo/api/dao.php on line 145
+[07-Sep-2023 18:38:58 America/Chicago] PHP Warning:  Undefined array key "apnsSSL" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 5
+[07-Sep-2023 18:38:58 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 6
+[07-Sep-2023 18:38:58 America/Chicago] PHP Warning:  Undefined array key "passphrase" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 7
+[07-Sep-2023 18:38:58 America/Chicago] PHP Warning:  Undefined array key "sourceTokenString" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 8
+[08-Sep-2023 23:11:38 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/userRegister.php on line 7
+[08-Sep-2023 23:11:38 America/Chicago] PHP Warning:  Undefined array key "email" in /home1/terrytor/public_html/todo/api/userRegister.php on line 8
+[08-Sep-2023 23:11:38 America/Chicago] PHP Warning:  Undefined array key "password" in /home1/terrytor/public_html/todo/api/userRegister.php on line 9
+[08-Sep-2023 23:11:38 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 11
+[08-Sep-2023 23:11:38 America/Chicago] PHP Warning:  Undefined array key "token" in /home1/terrytor/public_html/todo/api/userRegister.php on line 12
+[09-Sep-2023 01:46:54 America/Chicago] PHP Warning:  Undefined array key "apnsSSL" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 5
+[09-Sep-2023 01:46:54 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 6
+[09-Sep-2023 01:46:54 America/Chicago] PHP Warning:  Undefined array key "passphrase" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 7
+[09-Sep-2023 01:46:54 America/Chicago] PHP Warning:  Undefined array key "sourceTokenString" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 8
+[10-Sep-2023 00:40:06 America/Chicago] PHP Warning:  Undefined array key "apnsSSL" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 5
+[10-Sep-2023 00:40:06 America/Chicago] PHP Warning:  Undefined array key "username" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 6
+[10-Sep-2023 00:40:06 America/Chicago] PHP Warning:  Undefined array key "passphrase" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 7
+[10-Sep-2023 00:40:06 America/Chicago] PHP Warning:  Undefined array key "sourceTokenString" in /home1/terrytor/public_html/todo/api/pushNotification.php on line 8
+[10-Sep-2023 12:58:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home1/terrytor/public_html/todo/api/api.php:30
+Stack trace:
+#0 {main}
+  thrown in /home1/terrytor/public_html/todo/api/api.php on line 30
