@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: So I played DmC	</title>
+	<atom:link href="2013/02/07/so-i-played-dmc/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/02/07/so-i-played-dmc/</link>
+	<description>Game ideas, lame ideas, and more</description>
+	<lastBuildDate>Thu, 07 Sep 2023 15:44:06 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3</generator>
+	<item>
+		<title>
+		By: Terry		</title>
+		<link>/2013/02/07/so-i-played-dmc/#comment-10</link>
+
+		<dc:creator><![CDATA[Terry]]></dc:creator>
+		<pubDate>Fri, 08 Feb 2013 00:49:22 +0000</pubDate>
+		<guid isPermaLink="false">http://terry-torres.com/plays/2013/02/07/so-i-played-dmc/#comment-10</guid>
+
+					<description><![CDATA[But, hey, he sure can pull it off, huh?]]></description>
+			<content:encoded><![CDATA[<p>But, hey, he sure can pull it off, huh?</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mad Dog		</title>
+		<link>/2013/02/07/so-i-played-dmc/#comment-11</link>
+
+		<dc:creator><![CDATA[Mad Dog]]></dc:creator>
+		<pubDate>Thu, 07 Feb 2013 06:24:15 +0000</pubDate>
+		<guid isPermaLink="false">http://terry-torres.com/plays/2013/02/07/so-i-played-dmc/#comment-11</guid>
+
+					<description><![CDATA[Devil May Cry is like that popular guy at a party with the expensive haircut and slick jacket that I can&#039;t stand.]]></description>
+			<content:encoded><![CDATA[<p>Devil May Cry is like that popular guy at a party with the expensive haircut and slick jacket that I can&#39;t stand.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
