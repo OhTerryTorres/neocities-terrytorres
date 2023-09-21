@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Omake &#8211; Terry Plays</title>
-	<atom:link href="category/omake/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/plays/category/omake/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Game ideas, lame ideas, and more</description>
 	<lastBuildDate>Thu, 07 Sep 2023 15:44:06 +0000</lastBuildDate>
