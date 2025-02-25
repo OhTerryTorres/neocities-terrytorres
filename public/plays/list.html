@@ -35,8 +35,10 @@
 	<h1 class="site-title">Terry Plays</h1>
 
 	<p class="site-description">
-        List of blorg posts
+        List of blog posts
 	</p></br>
+
+    <ul id="myList"></ul>
 
     <a href="/plays/2022/09/13/tales-of-symphonia-pathetic/index.html">Tales of Symphonia &#8211; Pathetic</a></br></br>
     <a href="/plays/2022/04/18/xenogears-hostage-to-a-homily/index.html">Xenogears: Hostage to a homily</a></br></br>
@@ -104,13 +106,19 @@
 
 	</div>
 
-<script>document.body.classList.remove("no-js");</script>	<script>if ( -1 !== navigator.userAgent.indexOf( 'MSIE' ) || -1 !== navigator.appVersion.indexOf( 'Trident/' ) ) {
-		document.body.classList.add( 'is-IE' );
-	}</script>
 	<script id="twenty-twenty-one-ie11-polyfills-js-after">
 ( Element.prototype.matches && Element.prototype.closest && window.NodeList && NodeList.prototype.forEach ) || document.write( '<script src="http://localhost/terryplays/wp-content/themes/twentytwentyone/assets/js/polyfills.js?ver=1.9"><\/scr' + 'ipt>' );
 </script>
 <script src="/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js?ver=1.9" id="twenty-twenty-one-responsive-embeds-script-js"></script>
-
+<script src="/plays/superlist.js"></script>
+<script>
+    let data = Superlist();
+    let list = document.getElementById("superlist");
+    for (i = 0; i < data.length; ++i) {
+        let li = document.createElement('li');
+        li.innerText = data[i];
+        list.appendChild(li);
+    }
+</script>
 </body>
 </html>
