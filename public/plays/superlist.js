@@ -13,7 +13,7 @@ class PlayPost {
     }
 }
 
-<a href="/plays/2022/09/13/tales-of-symphonia-pathetic/index.html">Tales of Symphonia &#8211; Pathetic</a></br></br>
+{/* <a href="/plays/2022/09/13/tales-of-symphonia-pathetic/index.html">Tales of Symphonia &#8211; Pathetic</a></br></br>
     <a href="/plays/2022/04/18/xenogears-hostage-to-a-homily/index.html">Xenogears: Hostage to a homily</a></br></br>
     <a href="/plays/2021/12/07/the-promised-neverland-was-lame-from-the-start/index.html">The Promised Neverland was lame from the start</a></br></br>
     <a href="/plays/2020/12/15/the-new-torres-christmas-canon/index.html">The New Torres Christmas Canon</a></br></br>
@@ -75,4 +75,4 @@ class PlayPost {
     <a href="/plays/2012/07/06/bad-guys-in-the-hills/index.html">Bad Guys in the Hills</a></br></br>
     <a href="/plays/2012/07/05/your-name-please/index.html">Your Name, Please</a></br></br>
     <a href="/plays/2012/07/05/ness-family/index.html">Ness&#8217; Family</a></br></br>
-    <a href="/plays/2012/07/04/andres-left-for-l-a/index.html">Andres left for L.A.</a></br></br>
+    <a href="/plays/2012/07/04/andres-left-for-l-a/index.html">Andres left for L.A.</a></br></br> */}
