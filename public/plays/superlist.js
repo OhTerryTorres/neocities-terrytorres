@@ -1,5 +1,6 @@
 function Superlist() {
     let data = [
+        new PlayPost("Extemporaneous thoughts as the credits for Metaphor: ReFantazio started rolling", "/plays/posts/2025_02_26_whatsa-metaphor-you.html"),
         new PlayPost("Tales of Symphonia - Pathetic", "/plays/posts/2022_09_13_tales-of-symphonia-pathetic.html"), 
         new PlayPost("Xenogears: Hostage to a homily", "/plays/posts/2022_04_18_xenogears-hostage-to-a-homily.html"),
         new PlayPost("The Promised Neverland was lame from the start", "/plays/posts/2021_12_07_the-promised-neverland-was-lame-from-the-start.html"),
