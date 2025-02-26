@@ -38,7 +38,7 @@
         List of blog posts
 	</p></br>
 
-    <ul id="superlist"></ul>
+    <div id="superlist"></div>
 
     <a href="/plays/2022/09/13/tales-of-symphonia-pathetic/index.html">Tales of Symphonia &#8211; Pathetic</a></br></br>
     <a href="/plays/2022/04/18/xenogears-hostage-to-a-homily/index.html">Xenogears: Hostage to a homily</a></br></br>
@@ -120,6 +120,8 @@
         a.href = post.destination;
         a.innerText = post.title;
         list.appendChild(a);
+        let br = document.createElement('br');
+        list.appendChild(br);
     }
 </script>
 </body>
