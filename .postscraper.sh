@@ -1,13 +1,15 @@
-files=`ls`
-for ((i=${#files[@]}-1; i>=0; i--)); do
-  echo $files
-    # j=$(( ${#LIST[@]} - i - 1 ))
-    # echo $j
-    # FILE=${LIST[j]}
+LIST=`ls`
+for file in `ls`;
+do
     # CONTENTS=`cat $file`;
+    # TITLE=`sed -n "/<$TAG>/,/<\/$TAG>/p" file`;
+    # echo $TITLE
+    # sed -n "/<title>/,/<\/title>/p" $file
+    # echo "cat //html/head/title" |  xmllint --html --shell $file | sed '/^\/ >/d' | sed 's/<[^>]*.//g' | xargs
     # FULLTITLE=`grep -o '<title>.*</title>' $file`
     # TITLE="${FULLTITLE/<title>/}"
     # TITLE="${TITLE/ &\#8211; Terry Plays<\/title>/}"
-    # echo "new PlayPost("$TITLE', '/plays/posts/$file")",
-
+    # echo "new PlayPost('$TITLE', '/plays/posts/$file')",
+    NEWNAME="${file//$'_index.html'/$'.html'}"
+    mv $file $NEWNAME
 done
