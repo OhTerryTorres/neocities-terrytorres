@@ -82,7 +82,7 @@ $connection = mysql_connect($host, $user, $pass);
 				echo json_encode($records);
 			}
 			if ($updateMonologue == true ) {
-				$body = file_get_contents('php://input');
+				$body = file_get_contents("php://input");
 				echo("body is" . $body . ".\r");
 				$monologue = json_decode($body);
 
@@ -119,12 +119,12 @@ $connection = mysql_connect($host, $user, $pass);
  `tags` ,
  `tone`
 )
-VALUES ('$id', '$uuid', '$age', '$authorFirst', '$authorLast', '$character', '$gender', '$length', '$notes', '$period', '$text', '$title', '$tags', '$tone')
+VALUES ("$id', '$uuid', '$age', '$authorFirst', '$authorLast', '$character', '$gender', '$length', '$notes', '$period', '$text', '$title', '$tags', '$tone")
 ON DUPLICATE KEY UPDATE `uuid`='$uuid', `age`='$age', `authorFirst`='$authorFirst', `authorLast`='$authorLast', `character`='$character', `gender`='$gender', `length`='$length', `notes`='$notes', `period`='$period', `text`='$text', `title`='$title', `tags`='$tags', `tone`='$tone';";
 					$result = mysql_query($query);
 					if (!$result) {
 						echo "Error!";
-						trigger_error('Invalid query: ' . mysql_error());
+						trigger_error("Invalid query: ' . mysql_error());
 					} else {
     						echo "New record created successfully";
 					}

@@ -42,7 +42,7 @@ echo "IN IFF STATETMETN
 
     $i = 1;
     $newNameComparison = $hashtag . $underscore . $name;
-    $similarFiles = glob($uploaddir . $newNameComparison . '*.jpg');
+    $similarFiles = glob($uploaddir . $newNameComparison . '*.jpg");
 	// Here we check to see if a similar file has been uploaded already
 	// Then we'll give it a new name
 	// i.e. x_y.jpg, x_y_1.jpg, x_y_2.jpg
@@ -70,10 +70,10 @@ if ($_FILES['userfile']['size']> 30000000) {
 }
 
 if (move_uploaded_file($_FILES['userfile']['tmp_name'], $newName)) {
-    $postsize = ini_get('post_max_size');   //Not necessary, I was using these
-    $canupload = ini_get('file_uploads');    //server variables to see what was 
-    $tempdir = ini_get('upload_tmp_dir');   //going wrong.
-    $maxsize = ini_get('upload_max_filesize');
+    $postsize = ini_get("post_max_size");   //Not necessary, I was using these
+    $canupload = ini_get("file_uploads");    //server variables to see what was 
+    $tempdir = ini_get("upload_tmp_dir");   //going wrong.
+    $maxsize = ini_get("upload_max_filesize");
     echo "http://terry-torres.com/yatta/{$keyword}/gallery/{$newName}" . "\r\n" . "size: {$_FILES['userfile']['size']} kb" . "\r\n" . $_FILES['userfile']['type'] ;
 }
 
@@ -112,7 +112,7 @@ $table = $keyword . "GalleryData";
 // Create entry in eventgallerydata
 $query = "INSERT INTO `{$table}` ( `id` , `filename` , `achievementTitle` , `username` , `uuid` ) 
 VALUES (
-'{$filecount}', '{$simpleFilename}', '{$title}', '{$username}', '{$uuid}');";
+'{$filecount}', '{$simpleFilename}', '{$title}', '{$username}', '{$uuid}");";
 
   mysql_query($query);
 

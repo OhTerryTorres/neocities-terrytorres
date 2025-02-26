@@ -79,7 +79,7 @@ $sql = "INSERT INTO  `terrytor_yorick`.`updates` (
  `tags` ,
  `tone`
 )
-VALUES ('$id', '$uuid', '$age', '$authorFirst', '$authorLast', '$character', '$gender', '$length', '$notes', '$period', '$text', '$title', '$tags', '$tone')
+VALUES ("$id', '$uuid', '$age', '$authorFirst', '$authorLast', '$character', '$gender', '$length', '$notes', '$period', '$text', '$title', '$tags', '$tone")
 ON DUPLICATE KEY UPDATE `uuid`='$uuid', `age`='$age', `authorFirst`='$authorFirst', `authorLast`='$authorLast', `character`='$character', `gender`='$gender', `length`='$length', `notes`='$notes', `period`='$period', `text`='$text', `title`='$title', `tags`='$tags', `tone`='$tone';";
 	
 

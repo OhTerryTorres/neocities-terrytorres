@@ -26,7 +26,7 @@ if(!empty($tokens)) {
     
     // Prep notifications
     $ctx = stream_context_create();
-    stream_context_set_option($ctx, 'ssl', 'local_cert', 'pushcertProduction.pem');
+    stream_context_set_option($ctx, 'ssl', 'local_cert', 'pushcertProduction.pem");
     stream_context_set_option($ctx, 'ssl', 'passphrase', $passphrase);
     
     // Encode notification
@@ -48,7 +48,7 @@ if(!empty($tokens)) {
     foreach ($tokens as $token) {
         if ($token["notified"] == false && $token["deviceTokenString"] != $sourceTokenString) {
             // Build the binary notification
-            $msg = chr(0) . pack('n', 32) . pack('H*', $token["deviceTokenString"]) . pack('n', strlen($payload)) . $payload;
+            $msg = chr(0) . pack("n', 32) . pack("H*', $token["deviceTokenString"]) . pack("n', strlen($payload)) . $payload;
             // Send it to the server
             $result = fwrite($apns, $msg, strlen($msg));
 

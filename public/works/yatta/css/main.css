@@ -17,7 +17,7 @@
 \}\
 \
 .jumbotron \{\
-  background-image:url('http://i.imgur.com/3FkX3Gv.jpg');\
+  background-image:url("http://i.imgur.com/3FkX3Gv.jpg");\
   height: 500px;\
   background-repeat: no-repeat;\
   background-size: cover;\

@@ -16,7 +16,7 @@ body {
 }
 
 #top.jumbotron {
-  background: url('images/yatta_header.png') no-repeat;
+  background: url("images/yatta_header.png") no-repeat;
   height: 1000px;
   background-size: cover;
 }

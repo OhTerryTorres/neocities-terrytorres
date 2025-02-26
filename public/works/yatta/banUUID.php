@@ -34,7 +34,7 @@ if (!$dbconnect)
 
 	// Create entry in eventgallerydata
 
-	$query = "INSERT INTO $table ( bannedUUID ) VALUES ('$bannedUUID');";
+	$query = "INSERT INTO $table ( bannedUUID ) VALUES ("$bannedUUID");";
 
 	echo "query is $query  /  ";
 

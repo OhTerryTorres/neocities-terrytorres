@@ -60,7 +60,7 @@ $connection = mysql_connect($host, $user, $pass);
 			}
 
 			if ($set == true ) {
-				$body = file_get_contents('php://input');
+				$body = file_get_contents("php://input");
 				echo("body is " . $body . ".\r");
 				$task = json_decode($body);
 
@@ -85,12 +85,12 @@ $connection = mysql_connect($host, $user, $pass);
  `lastUpdate` ,
  `dateCompleted`
 )
-VALUES ('$uniqueID', '$name', '$userCreated', '$userCompleted', '$dateCreated', '$lastUpdate', '$dateCompleted')
+VALUES ("$uniqueID', '$name', '$userCreated', '$userCompleted', '$dateCreated', '$lastUpdate', '$dateCompleted")
 ON DUPLICATE KEY UPDATE `uniqueID`='$uniqueID', `name`='$name', `userCreated`='$userCreated', `userCompleted`='$userCompleted', `dateCreated`='$dateCreated', `lastUpdate`='$lastUpdate', `dateCompleted`='$dateCompleted';";
 				    $result = mysql_query($query);
 				    if (!$result) {
 				        echo "Error inserting record!";
-				        trigger_error('Invalid query: ' . mysql_error());
+				        trigger_error("Invalid query: ' . mysql_error());
 				    } else {
     				    echo "New record created successfully";
 				    }
@@ -103,23 +103,23 @@ ON DUPLICATE KEY UPDATE `uniqueID`='$uniqueID', `name`='$name', `userCreated`='$
 			}
 
 			if ($delete == true ) {
-				$uniqueID = utf8_decode(file_get_contents('php://input'));
+				$uniqueID = utf8_decode(file_get_contents("php://input"));
 				echo("uniqueID is " . $uniqueID . ".\r");
 				$query = "DELETE FROM {$table} WHERE uniqueID='$uniqueID';";
 				$result = mysql_query($query);
 				if (!$result) {
 					echo "Error!";
-					trigger_error('Invalid query: ' . mysql_error());
+					trigger_error("Invalid query: ' . mysql_error());
 				} else {
     					echo "Record deleted successfully";
 				}
 			}
 			if ($deleteCompleted == true ) {
-				$query = "DELETE FROM {$table} WHERE userCompleted NOT IN ('');";
+				$query = "DELETE FROM {$table} WHERE userCompleted NOT IN ("");";
 				$result = mysql_query($query);
 				if (!$result) {
 					echo "Error!";
-					trigger_error('Invalid query: ' . mysql_error());
+					trigger_error("Invalid query: ' . mysql_error());
 				} else {
     					echo "Record deleted successfully";
 				}

@@ -76,9 +76,9 @@ public function createTokenTable($username) {
 }
 public function addTokenForUser($deviceTokenString, $username) {
     $sql = "INSERT INTO {$username}_tokens (deviceTokenString)
-    SELECT * FROM (SELECT '{$deviceTokenString}') AS tmp
+    SELECT * FROM (SELECT '{$deviceTokenString}") AS tmp
     WHERE NOT EXISTS (
-    SELECT deviceTokenString FROM {$username}_tokens WHERE deviceTokenString = '{$deviceTokenString}') LIMIT 1;";
+    SELECT deviceTokenString FROM {$username}_tokens WHERE deviceTokenString = '{$deviceTokenString}") LIMIT 1;";
     $result = $this->conn->query($sql);
     
     return $result;
