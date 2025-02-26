@@ -55,11 +55,7 @@ echo "IN IFF STATETMETN
 	$i++;
     }
     
-}
-
-
-
-if (is_uploaded_file($_FILES['userfile']['tmp_name'])) {
+}if (is_uploaded_file($_FILES['userfile']['tmp_name'])) {
 	echo "File uploaded. \r\n";
 } else {
 	echo "File not uploaded. \r\n";
