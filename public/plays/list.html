@@ -115,9 +115,11 @@
     let data = Superlist();
     let list = document.getElementById("superlist");
     for (i = 0; i < data.length; ++i) {
-        let li = document.createElement('li');
-        li.innerText = data[i];
-        list.appendChild(li);
+        let post = data[i];
+        let a = document.createElement('a');
+        a.href = post.destination;
+        a.innerText = post.title;
+        list.appendChild(a);
     }
 </script>
 </body>
